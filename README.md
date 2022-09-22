@@ -19,8 +19,6 @@ Clone of Ipad Desktop Interface focussing on the implementation of "MORE" option
 ## Demo
 
 
-
-
 ## Tech Stack
 
 HTML, CSS, JavaScript
